@@ -1,0 +1,61 @@
+td {
+border: 1px #dddddd solid;
+background-color: white;
+text-align: center;
+} 
+
+td.header { 
+font-family: Futura, Helvetica, sans-serif;
+background-color: #ff0066;
+text-align: center;
+color:#ffffff;
+} 
+
+#headerBlock{
+position:relative;
+	display: flex;
+	 align-items: center;
+background-color: #bd1819;
+	 width: 850px;
+ 	 height: 150px;
+	top: 5px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:45px;
+}
+
+
+#headerTitle{
+color:#000000;
+font-family: Futura, Arial, sans-serif;
+font-size:64px;
+font-weight:bold;
+text-align:center;
+}
+ 
+#container {
+  display: flex; 
+  flex-direction: row;
+   flex-wrap: wrap;  
+  align-content: space-between;
+  height: 330px; 
+width: 880px;  
+  background-color: #ddffff;
+  
+}
+ 
+#grid-container {
+  display: grid;
+  width: 800px;
+  grid-template-columns: auto auto auto auto auto;
+  background-color: #ffffff;
+  padding: 10px;
+}
+#grid-item {
+  background-color: rgba(100, 200, 255, 1);
+  border: 10px solid rgba(255, 255, 255, 100);
+  padding: 20px;
+  font-size: 17px;
+  text-align: center;
+}

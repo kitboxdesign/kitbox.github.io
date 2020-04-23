@@ -93,16 +93,4 @@ Quiz Games
 <td>
 <img src="assets/20.jpg" width="100" height="100"> &nbsp;
 </td>
-</tr> 
-</table> 
  
-</div> <!-- main container ends-->
-</div> <!-- centering div ends-->
-
- 
-</body>
-
-
-
-
-</html>

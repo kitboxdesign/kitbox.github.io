@@ -2,20 +2,20 @@
 
 
 
-td {
+tsd {
 border: 1px #dddddd solid;
 background-color: white;
 text-align: center;
 } 
 
-td.header { 
+tsd.header { 
 font-family: Futura, Helvetica, sans-serif;
 background-color: #ff0066;
 text-align: center;
 color:#ffffff;
 } 
 
-#headerBlock{
+#sheaderBlock{
 position:relative;
 	display: flex;
 	 align-items: center;

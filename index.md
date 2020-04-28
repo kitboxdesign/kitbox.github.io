@@ -3,12 +3,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  
 <link rel="stylesheet" href="assets/stylesheet.css" type="text/css">
+<!--
 <style type="text/css">
 body {
 font-family: Futura, Helvetica, sans-serif;
 font-size: 10px;
 }
 </style>
+-->
  </head>
  
  <body>

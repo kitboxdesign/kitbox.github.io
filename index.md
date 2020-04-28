@@ -102,10 +102,11 @@
 <img src="assets/20.jpg" width="150" height="150" /> 
 </td>
 </tr> 
+</table>
 </table> 
  
 </div> <!-- main container ends-->
-</div> <!-- centering div ends-->
+</div>  <!-- centering div ends-->
 
  
 </body>

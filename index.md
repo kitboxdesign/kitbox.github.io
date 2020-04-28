@@ -110,10 +110,10 @@ font-size: 10px;
 <img src="assets/18.jpg" width="150" height="150"> &nbsp;
 </td>
 <td>
-<img src="assets/19.jpg" width="150" height="150"> &nbsp;
+<img src="assets/19.jpg" width="150" height="150"> 
 </td>
 <td>
-<img src="assets/20.jpg" width="150" height="150"> &nbsp;
+<img src="assets/20.jpg" width="150" height="150"> 
 </td>
 </tr> 
 </table> 
@@ -123,22 +123,5 @@ font-size: 10px;
 
  
 </body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </html>

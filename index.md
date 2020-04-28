@@ -35,7 +35,7 @@ font-size: 10px;
 
 <tr>
 <td>
-<div id="boxTitle">Xmas Pairs Game<p></div>
+<div id="boxTitle">Xmas Pairs Game</div><p>
 <a href="assets/xmaspairsfree.exe" alt="Memory pairs game with a Christmas theme"><img src="assets/1.jpg" width="150" height="150"></a>
 <p><div id="tagFlex"><div id="boxText"> クリスマスの可愛い絵をして神経衰弱ゲーム。</div></div>
 <p>

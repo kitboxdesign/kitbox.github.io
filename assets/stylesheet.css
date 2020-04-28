@@ -1,19 +1,42 @@
-
-
-
-
 td {
 border: 1px #dddddd solid;
 background-color: white;
 text-align: center;
 } 
 
-td.header { 
+td.header1 { 
 font-family: Futura, Helvetica, sans-serif;
 background-color: #ff0066;
 text-align: center;
 color:#ffffff;
+font-weight:bold;
+font-size:25px;
 } 
+
+ td.header2 { 
+font-family: Futura, Helvetica, sans-serif;
+background-color: #c52f16;
+text-align: center;
+color:#ffffff;
+font-weight:bold;
+font-size:20px;
+} 
+
+ td.header3 { 
+font-family: Futura, Helvetica, sans-serif;
+background-color: #26df81;
+text-align: center;
+color:#ffffff;
+font-weight:bold;
+font-size:20px;
+} 
+
+
+hr.big {
+	
+	border-top:2px solid #eeeee;
+	width:1050px;
+}
 
 #headerBlock{
 position:relative;
@@ -29,23 +52,116 @@ background-color: #bd1819;
 font-size:45px;
 }
 
+#tagFlex{
+position:relative;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+background-color: ;
+	 width: 180;
+ 	 height: 20px;
+	bottom: 2px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:10px;
+text-align:center;
+}
+
+#tagBlock1{
+position:relative;
+	display: block;
+	 align-items: ;
+background-color: #fc8322;
+	 width: 40px;
+ 	 height: 15px;
+	bottom: 0px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:10px;
+text-align:center;
+}
+
+#tagBlock2{
+position:relative;
+	display: block;
+	 align-items: ;
+background-color: #3bcd65;
+	 width: 40px;
+ 	 height: 15px;
+	bottom: 0px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:10px;
+text-align:center;
+}
+
+#tagBlock3{
+position:relative;
+	display: block;
+	 align-items: ;
+background-color: #dd3f0e;
+	 width: 40px;
+ 	 height: 15px;
+	bottom: 0px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:10px;
+text-align:center;
+}
+
+#tagBlock4{
+position:relative;
+	display: block;
+background-color: #3bb6df;
+	 width: 40px;
+ 	 height: 15px;
+	bottom: 0px;
+	left: 0px;
+	margin: auto;
+	color:#ffffff;
+font-size:10px;
+text-align:center;
+}
+
 
 #headerTitle{
-color:red;
+color:#000000;
 font-family: Futura, Arial, sans-serif;
 font-size:64px;
 font-weight:bold;
 text-align:center;
 }
+
+#boxTitle{
+color:#000000;
+font-family: Futura, Arial, sans-serif;
+font-size:15px;
+font-weight:bold;
+text-align:center;
+}
+
+#boxText{
+	display: block;
+	width: 150px;
+	height: 50px;
+	position:relative;
+background-color:white;
+position: ;
+font-family: Futura, Arial, sans-serif;
+font-size:11px; 
+text-align:left;
+color:#005533;
+}
  
 #container {
-  display: flex; 
-  flex-direction: row;
-   flex-wrap: wrap;  
-  align-content: space-between;
-  height: 330px; 
+  display: block; 
+  height: 1300px; 
 width: 880px;  
-  background-color: #ddffff;
+  background-color: #aff6eb;
   
 }
  

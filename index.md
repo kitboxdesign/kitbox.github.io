@@ -1,4 +1,4 @@
-  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/stylesheet.css">
  <body>
  KITBOX GAMES<img src="assets/blank.gif" height="1" width="100px" /> ABOUT<img src="assets/blank.gif" height="1" width="100px" /> BLOG<img src="assets/blank.gif" height="1" width="100px" /> CONTACT
  <p>

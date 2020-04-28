@@ -1,13 +1,13 @@
  
  
 <link rel="stylesheet" href="assets/stylesheet.css" type="text/css">
-<styletype="text/css">
+<style type="text/css">
 body {
 font-family: Futura, Helvetica, sans-serif;
 font-size: 10px;
 }
 </style>
- </head>
+ 
  
  <body>
  KITBOX GAMES<img src="assets/blank.gif" height="1" width ="100px"> ABOUT<img src="assets/blank.gif" height="1" width ="100px"> BLOG<img src="assets/blank.gif" height="1" width ="100px"> CONTACT
